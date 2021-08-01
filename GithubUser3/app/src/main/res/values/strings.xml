@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Github User</string>
+    <string name="name">name</string>
+    <string name="user">user</string>
+    <string name="tab_text_1">Following</string>
+    <string name="tab_text_2">Followers</string>
+    <string name="search_hint">Type a Keyword</string>
+    <string name="colon">:</string>
+    <string name="location">Location</string>
+    <string name="company">Company</string>
+    <string name="repository">Repository</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="change_language_settings">Change Language</string>
+    <string name="fav">Added to favorite user.</string>
+    <string name="unfav">Deleted from favorite user.</string>
+    <string name="fav_page">Favorite User</string>
+    <string name="alarm">Set Reminder at 9.00 AM</string>
+    <string name="alarmOn">Reminder On</string>
+    <string name="alarmOff">Reminder Off</string>
+    <string name="setting">Setting</string>
+    <string name="appwidget_text">Favorite Github User</string>
+    <string name="empty_text">NO DATA</string>
+</resources>
